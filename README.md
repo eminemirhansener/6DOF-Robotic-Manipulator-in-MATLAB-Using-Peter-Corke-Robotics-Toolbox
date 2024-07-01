@@ -12,9 +12,9 @@ This repository contains a MATLAB simulation program for a 6DOF robotic manipula
 ## Installation
 
 1.  **Clone the repository**:
-'''
+```
     git clone https://github.com/eminemirhansener/6DOF-Robotic-Manipulator-in-MATLAB-Using-Peter-Corke-Robotics-Toolbox.git
-'''
+```
 2.  **Install MATLAB**: Ensure you have MATLAB installed on your machine. The GUI and simulation scripts are compatible with MATLAB R2023b. No other versions were controlled.
 3.  **Install the Robotics Toolbox**: Download and install the Peter Corke Robotics Toolbox for MATLAB from [here](https://petercorke.com/toolboxes/robotics-toolbox/).
 
